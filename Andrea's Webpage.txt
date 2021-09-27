@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Andrea's webpage! </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+  <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+    <h1 id="center-h1">  Andrea's website </h1>
+   
+ 
+    <p class="disclaimer" id="inline"> 
+    <hr>
+    <p> I will talk a little about myself.</p>
+    <hr>
+    <ul>
+      
+        <ol>
+          <li> I was born on February25,2007 in Miami. </li>
+          <img src="https://th.bing.com/th/id/R.9f764c437aa73c5edda81d04ab74ebf9?rik=Ob%2fXme66qEin%2fg&riu=http%3a%2f%2fwww.hamptoninnmiamiairport.com%2fscripts%2fimg%2fimg7.jpg&ehk=hvxCGlpGRl%2b2w%2bGznck4%2fYyXsSL1gHEwrwfb8eHQUJE%3d&risl=&pid=ImgRaw&r=0" alt="Miami">
+          <li>  I have one dog that is a golden doodle and his name is Benji.</li>
+          <img src=""" alt="My dog">
+          <li> I have a sister that is 22 ans her name is Vanessa.</li>
+            <img src="">
+       
+          <li> I love to dance and listen to music.</li>
+           <img src="https://th.bing.com/th/id/OIP.cB4nbZxFwzwyZkYHvJy5GAHaJ7?pid=ImgDet&rs=1" alt="Music and Dance">
+          <li> My friends are really important to me. </li>
+          <body>
+        <img src=""
+            
+                    
+        
+    </body>
+       </ol>
+      <br>
+      <p> Things I love to do </p>
+    <ol>
+      <li> I love watching TV series and movies. </li>
+      <li> I love to hang out with my friends.</li>
+      <li> I love to cook and bake.</li>
+      <li> I love going to the beach and the pool. </li>
+      <li> I love animals. </li>
+      <li> I love traveling. </li>
+      <li> I love going to amusement parks. </li> 
+      <li> I love going paddle boarding and kayaking. </li>
+    </ol>
+    </ul>
+    <hr>
+    <h1> Rating types of cuisines:</h1>
+    <table border="1px">
+      <tr>
+        <th> Type of cuisines </th>
+        <th> rating </th>
+        
+      </tr>
+      <tr>
+      <td> Guatemalen </td>
+      <td> 10/10 </td>
+      
+      </tr>
+      <tr>
+        <td> Cuban </td>
+        <td> 10/10 </td>
+        
+        <tr> 
+          <td> Chinese</td>
+          <td> 9/10 </td>
+            
+      </tr>
+      <tr>
+        <td> American </td>
+        <td> 10/10 </td>
+       
+    </table>
+    <h3> Favorite: </h3>
+    <h4> My favorite type food either has to be Cuban or Guatemalen food. </h4>
+     <p class="disclaimer" id="copysymbol"> Andrea Gonzalez-Mejia 2007-2021 &copy; </p>
+  </body>
+</html>
